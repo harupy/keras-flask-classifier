@@ -11,7 +11,7 @@ model = None
 
 def load_model():
     global model
-    model = models.load_model('my_model.h5')
+    model = models.load_model('model.h5')
     model.summary()
     print('Loaded the model')
 

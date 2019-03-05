@@ -1,7 +1,14 @@
 # Keras & Flask Deep Learnig Classifier
-## How to use
+
+## Usage
+1. Clone this repository
+2. `keras-flask-classifier`
+3. `python main.py`
+4. Open `http://127.0.0.1:5000/`
+5. 
+
 ```
-git clone <this repo>
+git clone 
 cd keras-flask-classifier
 python main.py
 
