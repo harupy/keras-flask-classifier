@@ -1,5 +1,7 @@
 # Keras & Flask Classifier Web App
 
+A minimum implementation of image classifier web app with Keras & Flask
+
 ## Usage
 1. Clone this repository
 2. `cd keras-flask-classifier`
