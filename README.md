@@ -1,4 +1,4 @@
-# Keras & Flask Deep Learnig Classifier
+# Keras & Flask Classifier Web App
 
 ## Usage
 1. Clone this repository
